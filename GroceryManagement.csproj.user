@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Joseph\Desktop\GroceryManagement\GroceryManagement\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="EditStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EMMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MAMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MAME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageAddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizeStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
